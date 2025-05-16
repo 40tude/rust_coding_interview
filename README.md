@@ -9,6 +9,8 @@ My notes in **Rust** from the book ISBN-10: [1736049135](https://amzn.eu/d/e3MFY
 * In the directories, the number at the beginning of the filename (e.g., ``10_xxx.ipynb``, ``14_yyy.ipynb``) corresponds to the page number in the book.
 * When the filename starts with `bonus_` the exercice is one of the ``bonus.pdf`` 
 * A copy of ``bonus.pdf`` is available in the ``./assets`` directory
+* If you don't run Rust code in Jupyter Notebook, you can copy'n paste the code of the cells in the [Rust Playground](https://play.rust-lang.org/)
+    * Just make sure to uncomment the ``fn main(){`` line 
 
 ## This may help
 * The page where I explain how to [**Use Rust in Jupyter Notebooks on Windows**](https://www.40tude.fr/docs/06_programmation/rust/001_rust_jupyter/rust_jupyter.html)
