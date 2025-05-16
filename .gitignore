@@ -2,3 +2,8 @@
 .mypy_cache/
 .vscode/
 .ipynb_checkpoints/
+
+*.exe
+*.ilk
+*.obj
+*.pdb

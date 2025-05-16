@@ -1,0 +1,1 @@
+C:\Users\phili\OneDrive\Documents\Programmation\rust_jupyter\rust_coding_interview\06_binary_search\assets\first_last_occurence\target\debug\first_last_occurence.exe: C:\Users\phili\OneDrive\Documents\Programmation\rust_jupyter\rust_coding_interview\06_binary_search\assets\first_last_occurence\src\main.rs
