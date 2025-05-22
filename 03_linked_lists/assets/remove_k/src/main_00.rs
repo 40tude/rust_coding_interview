@@ -6,8 +6,8 @@ struct ListNode {
 }
 
 impl ListNode {
-    fn new(val: i32, next: Link) -> ListNode {
-        ListNode { val, next }
+    fn new(val: i32, next: Link) -> Self {
+        Self { val, next }
     }
 }
 
