@@ -12,6 +12,21 @@ My notes in **Rust** from the book ISBN-10: [1736049135](https://amzn.eu/d/e3MFY
 * If you don't run Rust code in Jupyter Notebook, you can copy'n paste the code of the cells in the [Rust Playground](https://play.rust-lang.org/)
     * Just make sure to uncomment the ``fn main(){`` line 
 
+## In most notebooks
+* There is a recap of the challenge at the top of the page
+* **The point** : The tip or the trick to keep in mind about the puzzle
+* **Complexity** : Recap of the time & space complexities
+* **About Rust** :
+    * list of function calls, idioms, constructs...
+    * There is no order, no priority
+    * This is mostly for me
+    * Items may be repeated if I can't remember
+    * I confirm (or not) if the code has been executed in the [Rust Playground](https://play.rust-lang.org/)
+* There may be cells with code that doesn't work and I explain why
+* There may be different versions of the same solution. I explain the changes from one version to the next.
+
+
+
 ## This may help
 * The page where I explain how to [**Use Rust in Jupyter Notebooks on Windows**](https://www.40tude.fr/docs/06_programmation/rust/001_rust_jupyter/rust_jupyter.html)
 * [**My repo with code in Python**](https://github.com/40tude/py_coding_interview). 
