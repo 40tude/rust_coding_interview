@@ -14,17 +14,18 @@ My notes in **Rust** from the book ISBN-10: [1736049135](https://amzn.eu/d/e3MFY
 
 ## In most notebooks
 * There is a recap of the challenge at the top of the page
-* **The point** : The tip or the trick to keep in mind about the puzzle
-* **Complexity** : Recap of the time & space complexities
-* **About Rust** :
-    * list of function calls, idioms, constructs...
-    * There is no order, no priority
-    * This is mostly for me
-    * Items may be repeated if I can't remember
-    * I confirm (or not) if the code has been executed in the [Rust Playground](https://play.rust-lang.org/)
-* There may be cells with code that doesn't work and I explain why
-* There may be different versions of the same solution. I explain the changes from one version to the next.
-
+* Then the following sections
+    * **The point** : The tip or the trick to keep in mind about the puzzle
+    * **Complexity** : Recap of the time & space complexities
+    * <span style="color:red"><b>TODO : </b></span>  This is mostly for me
+    * **About Rust** :
+        * list of function calls, idioms, constructs...
+        * There is no order, no priority
+        * This is mostly for me since I'm learning Rust
+        * Items may be repeated if I can't remember
+        * I confirm (or not) if the code has been executed in the [Rust Playground](https://play.rust-lang.org/)
+    * There may be cells with code that doesn't work and I explain why
+    * There may be different versions of the same solution. I explain the changes from one version to the next.
 
 
 ## This may help
