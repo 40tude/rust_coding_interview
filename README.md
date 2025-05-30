@@ -51,7 +51,7 @@ My notes in **Rust** from the book ISBN-10: [1736049135](https://amzn.eu/d/e3MFY
 * Shame on you 😁. Read this [**README**](https://github.com/40tude/py_coding_interview/blob/main/README.md).
 * You can copy and paste the code of the cell of interest either :
     1. In a local project on your PC 
-    1. A better solution is to use the [**Rust Playground**](https://play.rust-lang.org/)
+    1. A better solution is to start by using the [**Rust Playground**](https://play.rust-lang.org/). 
     1. In both cases, you may have to **uncomment** the line : ``fn main(){`` 
 
 
