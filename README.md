@@ -27,7 +27,7 @@ My notes in **Rust** from the book ISBN-10: [1736049135](https://amzn.eu/d/e3MFY
         * You will find here a list of function calls, idioms, constructs...
         * There is no order, no priority
         * This is mostly for me since I'm learning Rust
-        * I can repeat some items if I have trouble to keep them in mind
+        * I can repeat some items from one solution to another if I have trouble to keep them in mind
         * I usually confirm if the code of the cell has been executed in the [**Rust Playground**](https://play.rust-lang.org/)
     * There may be cells with code that doesn't work and I explain why
     * If there are multiple versions of the same solution I explain the changes from one version to the next.
@@ -37,7 +37,7 @@ My notes in **Rust** from the book ISBN-10: [1736049135](https://amzn.eu/d/e3MFY
 </div>
 
 ## About the sample code
-* All code examples are self-contained. By that, I mean that, unlike the code presented in the book or the associated [**GitHub repository**](https://github.com/ByteByteGoHq/coding-interview-patterns), they are not just isolated functions that are not necessarily easy to invoke. 
+* All code examples are self-contained. By that, I mean that, unlike the code presented in the book or in the associated [**GitHub repository**](https://github.com/ByteByteGoHq/coding-interview-patterns), they are not just isolated functions; instead, each example includes a ``main()`` function where I demonstrate how to invoke them and how to initialize any required data structures. 
 * For example, in [**Chapter 11**](https://github.com/40tude/rust_coding_interview/tree/main/11_trees), which covers binary trees, all the solutions I provide create the trees used in the chapter and display the results. The idea is really that each piece of code should be self-sufficient and easy to run.
 * Yes, it results in more code, but I find it much more practical.
 * In most of the code examples, I try to keep the names of functions, variables... identical to those in the book.
