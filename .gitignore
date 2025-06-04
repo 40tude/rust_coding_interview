@@ -2,6 +2,7 @@
 .mypy_cache/
 .vscode/
 .ipynb_checkpoints/
+target/
 
 *.exe
 *.ilk
