@@ -48,7 +48,7 @@ This how the beginning of a notebook may look like :
 
 <div align="center">
 <img src="./assets/cell.png" alt="" width="900" loading="lazy"/>
-<p>Feel free to click on the image above to enlarge it</p>
+<p><i>Click on the image above to enlarge it.</i></p>
 </div>
 
 
