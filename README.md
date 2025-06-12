@@ -1,4 +1,4 @@
-My notes in **Rust** from the book ISBN-10: [1736049135](https://amzn.eu/d/e3MFYEf) 
+My notes in **Rust** from the book ISBN-10: [**1736049135**](https://amzn.eu/d/e3MFYEf) 
 
 <div align="center">
 <img src="./assets/book_cover.png" alt="" width="450" loading="lazy"/>
@@ -30,7 +30,9 @@ My notes in **Rust** from the book ISBN-10: [1736049135](https://amzn.eu/d/e3MFY
         * I can repeat some items from one solution to another if I have trouble to keep them in mind
         * I usually confirm if the code of the cell has been executed in the [**Rust Playground**](https://play.rust-lang.org/)
     * There may be cells with code that doesn't work and I explain why
-    * If there are multiple versions of the same solution I explain the changes from one version to the next.
+    * If there are multiple versions of the same solution 
+        * I explain the changes from one version to the next.
+        * If it make sense, I highlight if one of the versions is my <span style="color:lime"><b>Preferred solution</b></span>
 
 This how the beginning of the notebook looks like :
 
