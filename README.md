@@ -34,7 +34,7 @@ My notes in **Rust** from the book ISBN-10: [**1736049135**](https://amzn.eu/d/e
         * I explain the changes from one version to the next.
         * If it make sense, I highlight if one of the versions is my <span style="color:lime"><b>Preferred solution</b></span>
 
-This how the beginning of the notebook looks like :
+This how the beginning of a notebook may look like :
 
 <div align="center">
 <img src="./assets/exercice_header.png" alt="" width="450" loading="lazy"/>
@@ -47,7 +47,8 @@ This how the beginning of the notebook looks like :
 * In most of the code examples, I try to keep the names of functions, variables... identical to those in the book.
 
 <div align="center">
-<img src="./assets/cell.png" alt="" width="450" loading="lazy"/>
+<img src="./assets/cell.png" alt="" width="900" loading="lazy"/>
+<p>Feel free to click on the image above to enlarge it</p>
 </div>
 
 
