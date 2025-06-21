@@ -33,6 +33,7 @@ My notes in **Rust** from the book ISBN-10: [**1736049135**](https://amzn.eu/d/e
     * If there are multiple versions of the same solution 
         * I explain the changes from one version to the next.
         * If it make sense, I highlight if one of the versions is my <span style="color:lime"><b>Preferred solution</b></span>
+        * When we come back to a notebook with several versions, the lime color makes it easy to find the one I prefer (this is purely personal)
 
 This how the beginning of a notebook may look like :
 
