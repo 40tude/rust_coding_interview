@@ -3,6 +3,7 @@
 #       1 - source ~/miniconda3/etc/profile.d/conda.sh
 #       2 - conda activate multi_jupyter
 # Now you can check you can call nbconvert with the command : jupyter nbconvert
+# python export_code_itv_ipynb.py
 
 import os
 import re
